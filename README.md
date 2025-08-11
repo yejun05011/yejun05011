@@ -6,8 +6,8 @@
 
 **HUFS 정보통신공학과**
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-FF0080?style=flat\&logo=instagram\&logoColor=white)](https://instagram.com/your_instagram)
-[![Gmail Badge](https://img.shields.io/badge/Email-EB4335?style=flat\&logo=gmail\&logoColor=white)](mailto:youremail@example.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-FF0080?style=flat\&logo=instagram\&logoColor=white)](https://instagram.com/yejuneeei)
+[![Gmail Badge](https://img.shields.io/badge/Email-EB4335?style=flat\&logo=gmail\&logoColor=white)](mailto:dpwnsl0501@hufs.ac.kr)
 
 </div>
 
@@ -44,8 +44,6 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-0078D4?style=flat\&logo=h2\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonwebservices\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
 
 **Tools**
 
