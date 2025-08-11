@@ -1,47 +1,54 @@
-👋 김 예준 | Backend Developer (Java/Spring)
+<!-- Clean & Minimal GitHub Profile README (김 예준) -->
 
-HUFS 정보통신공학과 · UMC 백엔드 · 현재 Vita Check 프로젝트 백엔드 개발 중
+<div align="center">
 
-🚀 About Me
+# 👋 김 예준 | Backend Developer (Java/Spring)
 
-Java & Spring Boot 중심의 백엔드 개발자 지망생
+**HUFS 정보통신공학과**
 
-JPA/Hibernate, REST API, MySQL, AWS, GitHub Actions 관심 많음
+[![Instagram Badge](https://img.shields.io/badge/Instagram-FF0080?style=flat\&logo=instagram\&logoColor=white)](https://instagram.com/your_instagram)
+[![Gmail Badge](https://img.shields.io/badge/Email-EB4335?style=flat\&logo=gmail\&logoColor=white)](mailto:youremail@example.com)
 
-협업을 좋아하고, 문서화/리뷰/리팩토링을 꾸준히 연습 중
+</div>
 
-“꾸준함이 실력을 만든다 — 오늘의 1커밋을 소중히!"
+---
 
-🧰 Tech Stack
+<div align="center">
 
-Language & Framework
+### 📊 GitHub Stats
 
-DB & Infra
+<!-- 깔끔한 카드: 아이디만 바꾸세요 -->
 
-Tools
+[![Stats](https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME\&show_icons=true\&hide_title=true\&hide=contribs\&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME\&layout=compact\&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-🗂️ Projects
+<!-- 선택: 커밋 스트릭 (느릴 수 있음) -->
 
-Vita Check (BE) – 영양제 찜/루틴/섭취기록 API, JWT 인증, ERD/예외 표준화 구축Java · Spring Boot · JPA · MySQL · Swagger · GitHub Actions
+<!-- [![Streak](https://streak-stats.demolab.com?user=GITHUB_USERNAME&hide_longest_streak=true)](https://git.io/streak-stats) -->
 
-UMC 팀 프로젝트 다수 (API 설계/문서화, 팀 협업, 코드 리뷰 경험)
+</div>
 
-자세한 내용은 Pinned Repositories를 확인하세요!
+---
 
-📈 GitHub Stats
+## 🧰 Tech Stack
 
-아래는 동적 카드들입니다. GITHUB_USERNAME을 본인 아이디로 바꿔서 사용하세요.
+**Studying**
 
-📝 Study Notes
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
-CS: 컴퓨터구조 · 운영체제 · DB · 네트워크 핵심 개념 정리 중
+**DB & Infra**
 
-Java: 제네릭/컬렉션/스트림, 동시성, 예외 표준화
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![H2](https://img.shields.io/badge/H2-0078D4?style=flat\&logo=h2\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonwebservices\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
 
-Spring: 트랜잭션, 영속성 컨텍스트, Validation, JWT
+**Tools**
 
-🤝 Contact
-
-Email: youremail@example.com
-
-LinkedIn/GitHub Blog: 링크가 있다면 여기에 추가하세요
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat\&logo=intellijidea\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat\&logo=githubactions\&logoColor=white)
