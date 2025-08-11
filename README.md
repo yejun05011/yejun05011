@@ -19,8 +19,8 @@
 
 <!-- 깔끔한 카드: 아이디만 바꾸세요 -->
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=GITHUB_yejun05011\&show_icons=true\&hide_title=true\&hide=contribs\&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_yejun05011\&layout=compact\&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=yejun05011\&show_icons=true\&hide_title=true\&hide=contribs\&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejun05011\&layout=compact\&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 선택: 커밋 스트릭 (느릴 수 있음) -->
 
