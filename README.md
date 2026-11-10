@@ -15,7 +15,7 @@
 
 ### About
 
-한국외국어대학교 정보통신공학과 · LG CNS AM INSPIRE CAMP 6기
+한국외국어대학교 정보통신공학과 · LG CNS AM INSPIRE CAMP 6기 · University MakeUs Challenge 8기
 
 - Java와 Spring을 중심으로 백엔드를 개발합니다.
 - 서비스 간 API 계약과 트랜잭션 경계를 고민하고, 실패 상황까지 검증합니다.
